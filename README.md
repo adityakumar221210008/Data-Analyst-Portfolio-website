@@ -80,28 +80,6 @@ Make sure you have Node.js and npm (or yarn) installed on your system.
 
 ---
 
-## 📂 Project Structure
-
-The `src` directory is organized into a component-based structure for maintainability.
-/src
-├── /assets # Static assets like images and fonts
-├── /components # Reusable React components
-│ ├── About.jsx
-│ ├── Certifications.jsx
-│ ├── Contact.jsx
-│ ├── Education.jsx
-│ ├── Experience.jsx
-│ ├── Footer.jsx
-│ ├── Header.jsx
-│ ├── Hero.jsx
-│ ├── Projects.jsx
-│ └── Skills.jsx
-├── App.css # Global styles and theme variables
-├── App.jsx # Main application component
-└── main.jsx # Entry point of the React application
-code
----
-
 ## 📧 Contact
 
 **Aditya Kumar**
