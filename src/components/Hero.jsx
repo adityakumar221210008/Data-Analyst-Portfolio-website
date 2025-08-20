@@ -63,7 +63,7 @@ const Hero = () => {
           </p>
           <div className="hero-actions">
             <a href="#projects" className="btn btn-primary">View My Work</a>
-            <a href="https://docs.google.com/document/d/1wEVmgP4x95SllUunn_utlRXTKWayLrDs/edit?usp=drive_link&ouid=101025133761734949696&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer" className="btn btn-secondary">View Resume</a>
+            <a href="https://drive.google.com/file/d/1gCTJSGeHVIyeUpaa5t8fRAIBqL6gVRUR/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="btn btn-secondary">View Resume</a>
           </div>
           <div className="social-icons reveal" aria-label="Social Links" style={{ marginTop: '25px' }}>
             <a href="https://www.linkedin.com/in/aditya-kumar-a7162723a/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn"><i className="fab fa-linkedin-in"></i></a>
@@ -82,5 +82,6 @@ const Hero = () => {
     </section>
   );
 };
+
 
 export default Hero;
