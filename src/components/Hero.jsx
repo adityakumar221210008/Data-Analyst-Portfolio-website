@@ -63,7 +63,7 @@ const Hero = () => {
           </p>
           <div className="hero-actions">
             <a href="#projects" className="btn btn-primary">View My Work</a>
-            <a href="https://drive.google.com/file/d/1gCTJSGeHVIyeUpaa5t8fRAIBqL6gVRUR/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="btn btn-secondary">View Resume</a>
+            <a href="https://drive.google.com/file/d/1P7QjiUjTJVCBnNQQVXZ1pSY9X3PGl7ht/view?usp=drive_link" target="_blank" rel="noopener noreferrer" className="btn btn-secondary">View Resume</a>
           </div>
           <div className="social-icons reveal" aria-label="Social Links" style={{ marginTop: '25px' }}>
             <a href="https://www.linkedin.com/in/aditya-kumar-a7162723a/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn"><i className="fab fa-linkedin-in"></i></a>
@@ -85,3 +85,4 @@ const Hero = () => {
 
 
 export default Hero;
+
