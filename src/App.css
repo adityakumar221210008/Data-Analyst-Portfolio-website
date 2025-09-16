@@ -763,3 +763,23 @@ ul {
   /* Different animation, duration, and delay for maximum randomness */
   animation: subtle-drift-2 30s ease-in-out infinite -8s; 
 }
+/* Prevent horizontal scrolling */
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+/* Ensure all elements respect the viewport */
+* {
+  box-sizing: border-box;
+}
+
+/* Prevent images or videos from overflowing */
+img, video {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
