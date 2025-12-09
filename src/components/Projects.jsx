@@ -19,7 +19,7 @@ const Projects = () => {
                       <span className="tech-tag">Tableau</span>
                       <span className="tech-tag">Python</span>
                   </div>
-                  <div className="project-links"><a href="#projects" className="btn btn-secondary btn-small">View Project</a></div>
+                  <div className="project-links"><a href="https://github.com/adityakumar221210008/Spotify-Analysis-Dashboard" className="btn btn-secondary btn-small">View Project</a></div>
               </div>
           </article>
           <article className="project-card reveal">
@@ -57,5 +57,6 @@ const Projects = () => {
     </section>
   );
 };
+
 
 export default Projects;
