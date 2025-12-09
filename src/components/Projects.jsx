@@ -49,7 +49,7 @@ const Projects = () => {
                       <span className="tech-tag">Pandas</span>
                       <span className="tech-tag">Power BI</span>
                   </div>
-                  <div className="project-links"><a href="#projects" className="btn btn-secondary btn-small">View Project</a></div>
+                  <div className="project-links"><a href="https://github.com/adityakumar221210008/Global-Air-Quality-Pollution-Trends" className="btn btn-secondary btn-small" target="_blank">View Project</a></div>
               </div>
           </article>
         </div>
@@ -60,4 +60,5 @@ const Projects = () => {
 
 
 export default Projects;
+
 
