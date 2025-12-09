@@ -3,7 +3,7 @@
 
 This repository contains the source code for my personal portfolio website. It's a fully responsive single-page application built with React to showcase my skills, projects, and experience as a Data Analyst.
 
-### [**View Live Demo**](https://[your-live-url.com](https://adityakumar-da.vercel.app/))
+### [**View Live Demo**](https://adityakumar-da.vercel.app/))
 ---
 
 ## ✨ Key Features
